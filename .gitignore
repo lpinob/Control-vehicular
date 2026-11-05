@@ -1,0 +1,8 @@
+# Entorno virtual 
+venv/ 
+.venv/ 
+__pycache__/ 
+*.pyc 
+# Credenciales y secretos 
+.streamlit/secrets.toml 
+.env git
